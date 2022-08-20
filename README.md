@@ -10,9 +10,9 @@ A research-based project where a model of traffic congestion prediction was cons
 📌Traffic: This is the column that serves as the training dataset as well as a predictor. This column's traffic is coded on a five-level scale. The following are the levels: -1 - Less than 5 cars. 2 - 5 to 15 cars. 3 - 15 to 30 cars. 4 - 30 to 50 cars. 5 - More than 50 cars.<br>
 
 ## Performance Comparison
-### Accuracy using Random Forest:<br>
+### 📍Accuracy using Random Forest:<br>
 Error = 13.42 %<br>
 Accuracy= 86.58 %<br>
-### Accuracy using Support Vector Regression:
-Error = 12.16 %
-Accuracy= 87.84 %
+### 📍Accuracy using Support Vector Regression:
+Error = 12.16 %<br>
+Accuracy= 87.84 %<br>
